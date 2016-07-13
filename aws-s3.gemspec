@@ -21,7 +21,7 @@ Gem::Specification.new do |s|
   s.add_dependency 'builder'
   s.add_dependency 'mime-types'
   s.rdoc_options  = ['--title', "AWS::S3 -- Support for Amazon S3's REST api",
-                     '--main',  'README',
+                     '--main',  'README.rdoc',
                      '--line-numbers', '--inline-source']
   s.license = "MIT"
 end
